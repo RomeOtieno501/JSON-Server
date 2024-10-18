@@ -1,0 +1,46 @@
+{
+  "guests": [
+    {
+      "id": "1",
+      "fullName": "Rome Otieno",
+      "nationalId": 42789337,
+      "dateOfPresence": "2024-10-01",
+      "paymentMethod": "Cash"
+    },
+    {
+      "id": "2",
+      "fullName": "Trevor Odhiambo",
+      "nationalId": 20408032,
+      "dateOfPresence": "2024-10-02",
+      "paymentMethod": "Credit Card"
+    },
+    {
+      "id": "3",
+      "fullName": "Katelyne Aluoch",
+      "nationalId": 21518461,
+      "dateOfPresence": "2024-10-03",
+      "paymentMethod": "Mobile Payment"
+    },
+    {
+      "id": "4",
+      "fullName": "Eric Ojuro",
+      "nationalId": 24318496,
+      "dateOfPresence": "2024-10-04",
+      "paymentMethod": "Cash"
+    },
+    {
+      "id": "5",
+      "fullName": "Jessicah Gweth",
+      "nationalId": 41021143,
+      "dateOfPresence": "2024-10-05",
+      "paymentMethod": "Cash"
+    },
+    {
+      "id": "6",
+      "fullName": "Maureen Akoth",
+      "nationalId": "35651411",
+      "dateOfPresence": "2024-10-03",
+      "paymentMethod": "Cash"
+    }
+  ]
+}
